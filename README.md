@@ -1,3 +1,1 @@
-# Project title
-
-Project description
+Internship report by A. Caicedo (Aug, 2017).
